@@ -35,8 +35,7 @@ Este projeto poderá ser feito por grupos de `até 2 alunos`.
 
 | Nome dos Integrantes     | RM             | Turma   |
 | :----------------------- | :------------- | :-----: |
-| Integrante 1             | RM             |         |
-| Integrante 2             | RM             |         |
+| Felipe Toscano           | RM  81515      | 4SIA    |
 
 ### Data de entrega final
 
