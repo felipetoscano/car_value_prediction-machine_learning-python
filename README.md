@@ -1,6 +1,4 @@
-# Aprendizado de maquina - 4SIA - NAC3 
-
-## Previsão do valor do carro
+# Previsão do valor do carro
 
 O [dataset](https://www.kaggle.com/nisargpatel/automobiles/data) para o projeto.
 
